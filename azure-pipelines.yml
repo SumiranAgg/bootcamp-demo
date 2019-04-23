@@ -5,7 +5,7 @@ pool:
   vmImage: 'Ubuntu-16.04'
 
 variables:
-  imageName: 'sumiranagg/bootcamp-demo'
+  imageName: 'shanu07/bootcamp-demo'
 
 steps:
 - task: Docker@2
